@@ -1,4 +1,4 @@
-﻿# Final Automation Task
+# Final Automation Task
 
 ## Overview
 This project automates the login functionality testing of the [Sauce Demo](https://www.saucedemo.com/) application using Selenium WebDriver, MSTest, and BDD.
